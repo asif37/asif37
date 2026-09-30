@@ -1,3 +1,5 @@
+<a href="https://calendly.com/asifhameed/meeting"><img src="eteksol-cover.png" alt="Eteksol: 300+ systems shipped. Senior engineers ready in days, not months." width="100%" /></a>
+
 ## Eteksol
 
 **Senior .NET, Python and AI engineers who join US product teams in days.**
